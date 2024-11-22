@@ -2983,7 +2983,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModificationDate>1732263850</a:ModificationDate>
 <a:CenterTextOffset>(-4947, 1236)</a:CenterTextOffset>
 <a:CenterTextWidth>14341</a:CenterTextWidth>
-<a:Rect>((13874,22386), (44856,23925))</a:Rect>
+<a:Rect>((13874,22386), (44856,23897))</a:Rect>
 <a:ListOfPoints>((14274,22786),(36090,23039),(44456,23068))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -3011,7 +3011,7 @@ ResourceFlow.Stereotype 0</a:SymbolContent>
 <a:ModificationDate>1732264611</a:ModificationDate>
 <a:CenterTextOffset>(-72, 1021)</a:CenterTextOffset>
 <a:CenterTextWidth>9271</a:CenterTextWidth>
-<a:Rect>((18261,24693), (42914,26367))</a:Rect>
+<a:Rect>((18261,24693), (42914,26339))</a:Rect>
 <a:ListOfPoints>((18661,25281),(31251,25419),(42514,25424))</a:ListOfPoints>
 <a:ArrowStyle>256</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -3038,7 +3038,7 @@ ResourceFlow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732086410</a:CreationDate>
 <a:ModificationDate>1732090581</a:ModificationDate>
 <a:CenterTextOffset>(0, 42)</a:CenterTextOffset>
-<a:Rect>((3671,24123), (11371,25634))</a:Rect>
+<a:Rect>((3671,24123), (11371,25606))</a:Rect>
 <a:ListOfPoints>((10971,24748),(4071,24748))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3303,7 +3303,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732087353</a:CreationDate>
 <a:ModificationDate>1732087558</a:ModificationDate>
 <a:CenterTextOffset>(-346, 273)</a:CenterTextOffset>
-<a:Rect>((2960,10037), (11384,11714))</a:Rect>
+<a:Rect>((2960,10037), (11384,11686))</a:Rect>
 <a:ListOfPoints>((10984,10662),(3360,10662))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3466,7 +3466,7 @@ ResourceFlow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732088039</a:CreationDate>
 <a:ModificationDate>1732263785</a:ModificationDate>
 <a:CenterTextWidth>18837</a:CenterTextWidth>
-<a:Rect>((20662,8350), (45064,10487))</a:Rect>
+<a:Rect>((20662,8322), (45064,10487))</a:Rect>
 <a:ListOfPoints>((21062,9710),(44664,9899))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -3616,7 +3616,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732089294</a:CreationDate>
 <a:ModificationDate>1732089434</a:ModificationDate>
 <a:CenterTextOffset>(7277, -144)</a:CenterTextOffset>
-<a:Rect>((-48261,-3443), (-35247,16009))</a:Rect>
+<a:Rect>((-48261,-3443), (-35247,15999))</a:Rect>
 <a:ListOfPoints>((-35647,15599),(-47636,15599),(-47636,-3043))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3643,7 +3643,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732089304</a:CreationDate>
 <a:ModificationDate>1732089475</a:ModificationDate>
 <a:CenterTextOffset>(8246, -73)</a:CenterTextOffset>
-<a:Rect>((-49786,-3789), (-35317,17115))</a:Rect>
+<a:Rect>((-49786,-3789), (-35317,17103))</a:Rect>
 <a:ListOfPoints>((-35717,16638),(-49161,16638),(-49161,-3389))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3670,7 +3670,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732089312</a:CreationDate>
 <a:ModificationDate>1732089481</a:ModificationDate>
 <a:CenterTextOffset>(10396, 129)</a:CenterTextOffset>
-<a:Rect>((-51310,-3235), (-35454,18292))</a:Rect>
+<a:Rect>((-51310,-3235), (-35454,18280))</a:Rect>
 <a:ListOfPoints>((-35854,17608),(-50685,17608),(-50685,-2835))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3763,7 +3763,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732089988</a:CreationDate>
 <a:ModificationDate>1732262217</a:ModificationDate>
 <a:CenterTextOffset>(-13094, 1140)</a:CenterTextOffset>
-<a:Rect>((-17995,32242), (11876,34927))</a:Rect>
+<a:Rect>((-17995,32242), (11876,34900))</a:Rect>
 <a:ListOfPoints>((-13956,32867),(11476,32867))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -3812,7 +3812,7 @@ Flow.Stereotype 0</a:SymbolContent>
 <a:ModificationDate>1732090592</a:ModificationDate>
 <a:CenterTextOffset>(21169, 828)</a:CenterTextOffset>
 <a:CenterTextWidth>11717</a:CenterTextWidth>
-<a:Rect>((-23712,17048), (11667,30633))</a:Rect>
+<a:Rect>((-23712,17048), (11667,30605))</a:Rect>
 <a:ListOfPoints>((-23312,17448),(-23312,27218),(11267,27218))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -4177,7 +4177,7 @@ ResourceFlow.Stereotype 0</a:SymbolContent>
 <a:CreationDate>1732091530</a:CreationDate>
 <a:ModificationDate>1732264356</a:ModificationDate>
 <a:CenterTextOffset>(2294, -32)</a:CenterTextOffset>
-<a:Rect>((43543,3333), (67133,5132))</a:Rect>
+<a:Rect>((43543,3305), (67133,5132))</a:Rect>
 <a:ListOfPoints>((66733,4505),(43943,4533))</a:ListOfPoints>
 <a:ArrowStyle>256</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -4900,7 +4900,7 @@ ResourceFlow.Stereotype 0</a:SymbolContent>
 <a:ModificationDate>1732263863</a:ModificationDate>
 <a:CenterTextOffset>(-16541, 13161)</a:CenterTextOffset>
 <a:CenterTextWidth>17519</a:CenterTextWidth>
-<a:Rect>((20527,4778), (55688,32220))</a:Rect>
+<a:Rect>((20527,4778), (55688,32192))</a:Rect>
 <a:ListOfPoints>((20927,31436),(55288,31457),(55179,5323),(45527,5419))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
